@@ -1,0 +1,32 @@
+{
+ "long_redcar": {
+  "text": "Photorealistic street photography of an old European quarter, shot on a 35mm prime lens at f/2.8 from a low three-quarter angle across the roadway. A red sports car is parked next to a blue bicycle on a cobblestone street. Golden hour sunlight rakes in from the west, bouncing warm light off sandstone facades and picking out the damp sheen between the cobbles. The car's lacquered paint carries crisp specular highlights along the fender line; the bicycle leans on its kickstand, steel frame lightly scuffed, a wicker basket strapped to the handlebars. Farther back, the narrow street recedes toward a corner cafe with a striped awning, where a waiter stacks rattan chairs and two pedestrians pause at a flower stall. A tram cable crosses the upper frame and pigeons gather near a drain. Shallow depth of field keeps the car and bicycle sharp while the cafe melts into creamy bokeh. Natural color grade, fine film grain.",
+  "flip_from": "red sports car",
+  "flip_to": "blue sports car",
+  "n_words": 155
+ },
+ "long_noir": {
+  "text": "Interior, night: a private detective's office on the fourth floor, framed like a still from a 1940s film noir. On the far corner of the cluttered desk sits a green banker's lamp, its glass shade glowing softly against the gloom, while an amber desk lamp burns low beside an overflowing ashtray. Cigarette smoke drifts upward in slow, luminous shafts wherever light catches it. The room is cut into ribbons by venetian-blind shadows thrown from a streetlamp outside; hard slats climb a filing cabinet and break across scattered papers. Rain streaks the tall window behind the chair, every drop catching stray neon from the street below, and the pane shivers under distant thunder. A trench coat hangs on a bentwood rack; a revolver rests on a stack of case files beside a half-finished glass of rye. Deep blacks, controlled highlights, anamorphic framing, gentle halation around each practical light, and the palpable sense of a story interrupted mid-sentence.",
+  "flip_from": "green banker's lamp",
+  "flip_to": "red banker's lamp",
+  "n_words": 156
+ },
+ "long_watercolor": {
+  "text": "A children's picture-book illustration painted in loose, transparent watercolor on cold-pressed paper, the toothy grain of the sheet showing through every wash. In a small harbor, a cheerful yellow fishing boat bobs at its mooring, its ropes drawn with a few confident pencil lines left visible beneath the paint. Behind it, a red-and-white striped lighthouse stands on a grassy headland, the stripes softening where wet pigment has bloomed into the sky. The sea is suggested rather than described: broad horizontal strokes of cerulean, a dry-brush sparkle where sunlight skips across the ripples. Three seagulls wheel overhead, each just two or three brushmarks, while a fourth perches on a wooden post wrapped with rope. Clouds are lifted out of the paper with a clean damp brush, leaving soft white shapes with feathered edges, and little granulating puddles of pigment collect along the shoreline. The palette stays sunny and reassuring, the composition simple and friendly, like a page from a bedtime story about boats.",
+  "flip_from": "yellow fishing boat",
+  "flip_to": "green fishing boat",
+  "n_words": 162
+ },
+ "long_market": {
+  "text": "A bustling farmers-market stall rendered in rich, detailed realism, composed like a reference plate where every object's color matters. Under a green-striped canvas awning, wooden crates tilt toward the viewer: one crate piled with glossy purple eggplants, the next with squat orange pumpkins still dusted with field soil. A polished brass scale with chained weighing pans hangs from the awning's crossbar, and a small chalkboard lists the day's prices in smudged handwriting. Wicker baskets hold bundled carrots, papery onions, and dark leafy greens; a stack of brown paper bags is clipped to a length of twine. The vendor's folding table wears a checked oilcloth, its corners curling. Morning light filters through the canvas and tints the shadows faintly green, while warm bounce off the pumpkins lifts the underside of the brass pans. Behind the stall, blurred shoppers drift between neighboring stands and a delivery bicycle leans against a lamppost. Crisp textures, believable clutter, documentary color.",
+  "flip_from": "purple eggplants",
+  "flip_to": "white eggplants",
+  "n_words": 155
+ },
+ "long_alpine": {
+  "text": "A wide, quiet landscape photograph of a misty alpine lake at dawn, exposed for four full seconds on a tripod so the water irons flat to glass and the drifting fog smears into long horizontal veils. On the near shore stands a single orange tent, glowing faintly from a lantern inside, the one warm note in a cold palette, its guy-lines beaded with dew. The lake holds a deep teal color, saturated toward the center and paling over the shallows, where rounded stones show through like coins under the surface. Ranks of pine trees rise as flat black silhouettes along the far bank, dissolving upward into successive bands of low fog, each band a shade lighter than the last. Above the fog, the first pale peach light touches a ridgeline dusted with old snow. Thin mist curls off the water near a half-submerged log. No wind, no birds yet, only the hush of altitude: muted tones, delicate gradients, and the patient stillness of a long exposure.",
+  "flip_from": "orange tent",
+  "flip_to": "blue tent",
+  "n_words": 166
+ }
+}
